@@ -1,0 +1,4 @@
+INSERT INTO `cliente` (`codigo`,`created_by`, `created_date`, `last_modified_date`, `enabled`, `nome`, `telefone`) VALUES (1,'Rufino Router', '2021-07-13 12:00:26.000000', '2021-07-13 12:00:29.000000', b'1', 'Rosimery Pascoal', '995790422');
+INSERT INTO `cliente` (`codigo`, `created_by`, `created_date`, `last_modified_date`, `enabled`, `nome`, `telefone`) VALUES (2,'Rufino Router', '2021-07-13 12:00:26.000000', '2021-07-13 12:00:29.000000', b'1', 'Marcia Fernandes', '925412022');
+INSERT INTO `cliente` (`codigo`,`created_by`, `created_date`, `last_modified_date`, `enabled`, `nome`, `telefone`) VALUES (3,'Rufino Router', '2021-07-13 12:00:26.000000', '2021-07-13 12:00:29.000000', b'1', 'Yolanda Pascoal', '912500025');
+INSERT INTO `cliente` (`codigo`,`created_by`, `created_date`, `last_modified_date`, `enabled`, `nome`, `telefone`) VALUES (4,'Rufino Router', '2021-07-13 12:00:26.000000', '2021-07-13 12:00:29.000000', b'1', 'Amarildo Fernandes', '925540015');
