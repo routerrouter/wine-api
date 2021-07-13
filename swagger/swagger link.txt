@@ -1,1 +1,1 @@
-http://localhost:8080/v1/wine-api/swagger-ui/index.html
+http://localhost:8080/v1/wine-api/swagger-ui/index.html?configUrl=/v1/wine-api-docs/swagger-config
